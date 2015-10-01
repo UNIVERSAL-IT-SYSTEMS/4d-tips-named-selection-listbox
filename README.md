@@ -30,7 +30,7 @@ The form has a resizable rectangle object which is size 0 and transparent. By me
 
 Sorting by header click is not supported in named-selection based boxes, but the example illustrates how it can be done by managing the ```On Header Click``` event.
 
-**Drag and Drop***
+**Drag and Drop**
 
 ```On Row Moved``` is not supported in named-selection based boxes, but the example illustrates how it can be done by some coding with ```Drop position``` and ```DRAG AND DROP PROPERTIES```. ```On Begin Drag Over``` is not very useful, as there are no straightforward ways to know on which row the event has fired.
 
