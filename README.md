@@ -11,7 +11,7 @@ Featured
 
 * Entry: filter locked record with ```On Before Data Entry``` event.
 
-* Entry: unload current record aftet ```CUT NAMED SELECTION```.
+* Entry: unload current record after ```CUT NAMED SELECTION```.
 
 * Other: pseudo-dynamic (```"$"+Generate UUID```) named selection and highlight set names.
 
