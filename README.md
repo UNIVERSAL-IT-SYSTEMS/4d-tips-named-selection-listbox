@@ -34,3 +34,4 @@ Sorting by header click is not supported in named-selection based boxes, but the
 
 ```On Row Moved``` is not supported in named-selection based boxes, but the example illustrates how it can be done by some coding with ```Drop position``` and ```DRAG AND DROP PROPERTIES```. ```On Begin Drag Over``` is not very useful, as there are no straightforward ways to know on which row the event has fired.
 
+![](https://github.com/miyako/4d-tips-named-selection-listbox/blob/master/images/screenshot.png)
